@@ -1,4 +1,6 @@
 # By Somsak Lima and Itti  Srisumalai
+# This code is for LoRa module Maxxiot DL7612-AS923-TH
+#  
 import machine
 import ure
 import CCS811, bme280, time, ubinascii, machine, si7021
